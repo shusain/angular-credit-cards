@@ -52,11 +52,9 @@
   },
   "files": [
     "src/*.js",
-    "readme.md"
+    "readme.md",
+    "release/*.js"
   ],
   "standard": {
-    "ignore": [
-      "release/"
-    ]
   }
 }
